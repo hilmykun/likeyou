@@ -219,10 +219,10 @@ class App extends Component {
                     data-text={
                       this.state.greeting === "Morning" ||
                       this.state.greeting === "Evening"
-                        ? "Jadian Yukkk"
+                        ? "I Miss U"
                         : this.state.greeting === "Night"
-                        ? "Balikan Yu"
-                        : "Jadian Yukkkkkk"
+                        ? "I Love You"
+                        : "I Miss You"
                     }
                   >
                     Good {this.state.greeting + ", "}
@@ -240,7 +240,7 @@ class App extends Component {
         </footer>
         <ReactAudioPlayer
           style={{ height: 20, width: 100 }}
-          src={require("./music.mp3")}
+          src={require("./music1.mp3")}
           autoPlay
           controls
         />
