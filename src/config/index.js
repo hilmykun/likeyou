@@ -8,7 +8,7 @@ export default {
     "aku selalu support dari kejauhan meskipun kita tak sedekat dulu lagi",
     "kalau kamu lagi down, sedih, nangis, seneng",
     "aku selalu siap 24 jam untuk mendengarkan keluh kesahmu apapun itu",
-    "jadi tetap semangat ya!"
+    "jadi tetap semangat ya!",
     "I wuv chuuuu! UwU",
   ],
   panggilan: ["Siti Anisa Azzahra ❣️"],
